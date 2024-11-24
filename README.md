@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://github.com/jdbaquero84/Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta/blob/main/imagen1.jpg" alt="Descripción de la Imagen 1" width="400"/>
-    <img src="https://github.com/jdbaquero84/Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta/blob/main/imagen1.jpg" alt="Descripción de la Imagen 2" width="400"/>
+    <img src="https://github.com/jdbaquero84/Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta/blob/main/imagen2.jpg" alt="Descripción de la Imagen 2" width="400"/>
 </div>
 
 ## Objetivo
