@@ -9,6 +9,13 @@
 
 El objetivo de este proyecto es proporcionar a los inversores una herramienta eficiente y visual para identificar las propiedades de renta corta con mayor demanda en la ciudad de Buenos Aires. Utilizando un tablero de control interactivo, los inversores pueden tomar decisiones informadas basadas en datos sólidos y actualizados, maximizando así su retorno de inversión.
 
+## Tecnologías Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 ## Descripción del Proyecto
 
 Este tablero de control ha sido diseñado para mostrar las propiedades de renta corta más demandadas en Buenos Aires. A través de análisis detallados y visualizaciones claras, los inversores pueden:
